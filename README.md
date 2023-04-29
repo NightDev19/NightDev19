@@ -32,8 +32,6 @@ I am Sherwin Jefferson from Natatas Tanauan City Batangas Phillipines. I am 20 y
    </p>
 
 ---
-<br>
-<br>
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -61,7 +59,7 @@ I am Sherwin Jefferson from Natatas Tanauan City Batangas Phillipines. I am 20 y
 <br />
 
 #
-
+<br>
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
