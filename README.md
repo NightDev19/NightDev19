@@ -31,7 +31,10 @@ I am Sherwin Jefferson from Natatas Tanauan City Batangas Phillipines. I am 20 y
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NightDev19?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+
+
 ---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -56,9 +59,13 @@ I am Sherwin Jefferson from Natatas Tanauan City Batangas Phillipines. I am 20 y
 <img align="left" alt="Sqlite3" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" />
 <!--<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />-->
-<br />
-<br/>
----
+
+<br>
+<br>
+<br>
+<br>
+
+#
 
 ### 📺 Latest YouTube Videos
 
@@ -83,6 +90,6 @@ I am Sherwin Jefferson from Natatas Tanauan City Batangas Phillipines. I am 20 y
 
 <details>
  <summary><h3>👨‍💻 NightDev19's Coding Journey</h3></summary>
-   I strated my coding journey when i was grade 12 an information and communication student with a passion to learn everything i could in programming world - code .And all the while teaching myself a simple coding skill in my second year college , but that soon get overshadowed by my desire to excel python. 
+   I strated my coding journey when i was grade 12 an information and communication technology student with a passion to learn everything i could in programming world - code .And all the while teaching myself a simple coding skill in my second year college , but that soon get overshadowed by my desire to excel python. 
 
 [youtube]: https://www.youtube.com/@nightcoremetry7772
