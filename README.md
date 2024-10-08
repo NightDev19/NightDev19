@@ -1,6 +1,5 @@
-<p style="text-align:center;">
-    <img src="./Assets/Welcome.gif" alt="Welcome" width="500px" height="auto">
-</p>
+
+<img src="./Assets/Welcome.gif" alt="Welcome" width="100vw" height="100%">
 <div style="style="margin: 20px;">
     <h2 style="color: #2196f3;">👋 Hello, I'm Sherwin Jefferson Tajan!</h2>
     <h3 style="color: #2196f3;">🎓 About Me</h3>
