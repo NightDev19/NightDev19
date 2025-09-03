@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Assets/Welcome.gif" alt="Welcome" width="100%" height="300">
+  <img src="./Assets/Welcome.gif" alt="Welcome" width="100%" height="500">
 </div>
 
 <div align="center">
@@ -130,15 +130,18 @@ Passionate about creating end-to-end solutions with modern technologies, focusin
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=NightDev19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=NightDev19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=NightDev19&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" style="width:100%; max-width:600px;" /></td>
+    <td width="50%"><img src="https://streak-stats.demolab.com?user=NightDev19&theme=tokyo-night&hide_border=true" style="width:100%; max-width:600px;" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightDev19&theme=tokyo-night&hide_border=true&layout=compact&langs_count=8" style="width:100%; max-width:600px;" /></td>
+    <td width="50%"><img src="https://github-readme-activity-graph.vercel.app/graph?username=NightDev19&theme=tokyo-night&hide_border=true" style="width:100%; max-width:600px;" /></td>
+  </tr>
+</table>
 
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightDev19&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=NightDev19&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
+
 
 ---
 
